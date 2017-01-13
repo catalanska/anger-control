@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AngerControl</string>
+    <string name="start_message">¡Espero que no me tengas que usar mucho!</string>
+    <string name="end_message_title">¡Es hora de dejarlo estar!</string>
+    <string name="end_message">Ahora toca pasar a algo más constructivo, ya has tenido suficientes sentimientos negativos</string>
+    <string name="anger_message">¿Enfado, frustración? Ok, pero no puede durar eternamente.</string>
+</resources>
